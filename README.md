@@ -7,5 +7,3 @@
  * ___Facebook___ (HTML, CSS, JS, + MERN + Authentication)
  * ___Amazon___  (HTML, CSS, JS, + MERN + Authentication + eCommerce)
  * ___Twitch___  (HTML, CSS, JS, + MERN + Authentication + VOD + Live + eCommerce)
-
- ___Please note that the composer.json and index.php files are simple for Heroku to recognize a buildpack, please disregard.___
